@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # project specifics:
-.smc
+cache.smc
